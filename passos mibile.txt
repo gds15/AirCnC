@@ -1,0 +1,6 @@
+1-> instalar uma biblioteca do expo comando npm install -g expo-cli
+2-> para iniciar o projeto comando expo init (nome do projeto) no caso vamos usar o nome mobile ai vai ficar expo init mobile
+3-> entar na pasta do projeto e rodar um yarn start
+4-> instalar biblioteca para navegação no react native comando yarn add react-navigation
+5-> instalar outra dependencia expo install react-native-gesture-handler react-native-reanimated
+6-> adicionar o axios na aplicacao com o comando yarn add axios

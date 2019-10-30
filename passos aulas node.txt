@@ -1,0 +1,16 @@
+1-> criar a pasta do projeto pode ser criando normal ou usar o comando mkdir nomedapasta
+2-> entrar na pasta e roda o comando yarn init -y ou npm ynit -y
+3-> comando code . ja abre a pasta no vs code
+4> abrir o terminal no vs code e rodar um yarn add express
+5-> criar pasta src e dentro da pasta src criar um arquivo server.js
+6->rodar projeto vai no terminal e usa um node src/server.js
+7-> comando para instalar dependeciancia para o server atualizar sem ter que ficar reiniciando yarn add nodemon -D
+8-> ir la no packege.jason e criar um script
+"scripts": {
+    "dev": "nodemon src/server.js"
+  },
+agora para rodar o projeto usar um yarn dev
+9->criar o arquivo rotas.js na pasta src
+10-> criado o servidor gratuito no mongodb atlas
+11-> fazer os passos para criar o banco e depois rodar um comando no terminal yarn add mongoose
+12-> add outra dependencia com o comando yarn add multer

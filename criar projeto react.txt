@@ -1,0 +1,12 @@
+1-> rodar comando yarn create react-app frontend
+2-> abrir a pasta no vs code
+3-> abrir outro terminal e rodar o servidor dentro da pasta do backend com o yarn dev e deixar o terminal aberto
+4-> antes de qualquer coisa no terminal do vs code msm rodar um yarn start
+5-> ir na pasta public e apagar tudo deixar so o index.html
+6-> da pasta src pode apagar o serviceWorker.js o logo.svg index.css e app.test.js
+7-> adicionar biblioteca para lidar com chamadas comando yarn add axios
+8-> criar dentro da pasta src uma pasta services e dentro criar um arquivo api.js para lidar sempre com alguma api ou arquivo esterno
+9-> ir la no backend e instalar uma dependencia chamada cors comando yarn add cors
+10-> agora adicionar no frontend ou seja no react um sistema de rotas yarn add react-router-dom
+11-> liberar no backend para poder usar a img do spot
+
